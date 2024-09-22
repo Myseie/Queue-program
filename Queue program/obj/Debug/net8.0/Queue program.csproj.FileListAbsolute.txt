@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Queue program\bin\Debug\net8.0\Queue program.exe
+D:\Programmering\Programmering\Queue program\bin\Debug\net8.0\Queue program.deps.json
+D:\Programmering\Programmering\Queue program\bin\Debug\net8.0\Queue program.runtimeconfig.json
+D:\Programmering\Programmering\Queue program\bin\Debug\net8.0\Queue program.dll
+D:\Programmering\Programmering\Queue program\bin\Debug\net8.0\Queue program.pdb
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.AssemblyInfo.cs
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.dll
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\refint\Queue program.dll
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.pdb
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\Queue program.genruntimeconfig.cache
+D:\Programmering\Programmering\Queue program\obj\Debug\net8.0\ref\Queue program.dll
